@@ -1,6 +1,6 @@
 ## Meal Finder App
 
-[Semo](https://alvar91.github.io/meal-finder-html-css-js/) Search and generate random meals from the [themealdb.com](www.themealdb.com) API
+[Demo](https://alvar91.github.io/meal-finder-html-css-js/) Search and generate random meals from the [themealdb.com](www.themealdb.com) API
 
 ## Project Specifications
 
